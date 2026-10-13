@@ -1,0 +1,18 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Large raw downloads are reproduced by the scripts, not stored here
+04_原始数据/fred/
+04_原始数据/fiscaldata/
+04_原始数据/treasury_curve/
+04_原始数据/tic/
+04_原始数据/nyfed/
+04_原始数据/defillama/
+04_原始数据/issuer_reports/
+06_结果/

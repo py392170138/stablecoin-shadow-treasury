@@ -1,0 +1,25 @@
+{
+ "release_date": "2026-10-13",
+ "scope": "code + small public-data tables (no manuscript, no results)",
+ "payload_files_excluding_checksums_and_this_report": 33,
+ "python_files_parseable": 16,
+ "parse_errors": 0,
+ "sensitive_pattern_scan_hits": 0,
+ "third_party_restricted_columns_removed_from_panel": [
+  "VIXCLS",
+  "CBBTCUSD",
+  "CBETHUSD",
+  "BAMLH0A0HYM2"
+ ],
+ "raw_downloads_excluded": [
+  "fred",
+  "fiscaldata",
+  "treasury_curve",
+  "tic",
+  "nyfed",
+  "defillama",
+  "issuer_reports"
+ ],
+ "total_bytes": 1335351,
+ "largest_file_bytes": 486052
+}

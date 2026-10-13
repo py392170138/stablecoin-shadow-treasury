@@ -1,0 +1,17 @@
+event_id,date,actor,event,verification,source_url
+E01,2025-05-01,Senate,S.1582 GENIUS Act introduced,multi_source,https://www.morganlewis.com/topics/stablecoin?section=genius-act-implementation-timeline
+E02,2025-06-17,Senate,Senate passes GENIUS Act 68-30,multi_source,https://cryptoslate.com/crypto-laws/genius-act/
+E03,2025-07-17,House,House passes GENIUS Act 308-122,multi_source,https://cryptoslate.com/crypto-laws/genius-act/
+E04,2025-07-18,President,GENIUS Act signed into law,multi_source,https://cryptoslate.com/crypto-laws/genius-act/
+E05,2025-09-19,Treasury,Treasury ANPRM on GENIUS implementation (comments close 2025-11-04),multi_source,https://www.morganlewis.com/pubs/2026/04/genius-act-implementation-key-proposals-and-what-comes-next
+E06,2025-12-16,FDIC,FDIC proposal on application procedures (sources give 12-16 or 12-19),disputed_date,https://fintechlaw.ai/blog/genius-act-fdic-occ-stablecoin-rules-implementation
+E07,2026-02-25,OCC,OCC announces GENIUS NPRM,multi_source,https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-9.html
+E08,2026-03-02,OCC,OCC NPRM published in Federal Register,primary_source,https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the
+E09,2026-04-03,Treasury,Treasury proposal on state regime substantially-similar principles (some sources 04-01),disputed_date,https://www.morganlewis.com/pubs/2026/04/genius-act-implementation-key-proposals-and-what-comes-next
+E10,2026-04-08,Treasury/OFAC,Treasury proposed rule on illicit finance (AML/sanctions) under GENIUS,primary_source,https://ofac.treasury.gov/recent-actions/20260408_33
+E11,2026-04-10,FDIC,FDIC prudential standards NPRM published in Federal Register (board approval 2026-04-07),primary_source,https://www.federalregister.gov/documents/2026/04/10/2026-06974/genius-act-requirements-and-standards-for-fdic-supervised-permitted-payment-stablecoin-issuers-and
+E12,2026-07-18,Statute,Statutory one-year deadline for implementing regulations,multi_source,https://www.morganlewis.com/topics/stablecoin?section=genius-act-implementation-timeline
+E13,2026-08-17,Treasury,Treasury NPRM on issuance offer and sale of payment stablecoins incl. foreign-issuer path,multi_source,https://www.freshfields.com/en/our-thinking/blogs/a-fresh-take/treasury-proposes-genius-act-gatekeeping-rules-with-a-path-for-foreign-issuers-102nri4
+E14,2026-09-01,Industry,21 financial institutions announce joint USD stablecoin company (launch 1H2027),single_source,https://www.khaleejtimes.com/business/goldman-sachs-bofa-and-others-plan-to-issue-dollar-stablecoin-together-in-2027
+E15,2027-01-18,Statute,GENIUS operating framework effective (earlier of 2027-01-18 or 120 days after final rules),multi_source,https://www.morganlewis.com/topics/stablecoin?section=genius-act-implementation-timeline
+E16,2028-07-18,Statute,Restriction on non-permitted stablecoins at digital-asset service providers,single_source,https://cryptoticker.io/en/genius-act-stablecoin-rules-2027/
