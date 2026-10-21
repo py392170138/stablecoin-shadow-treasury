@@ -113,7 +113,7 @@ ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[1, 7])); ax.xaxis.set_ma
 ax.text(0.98, 0.97, "orange labels = share of that net issuance\nabsorbed by issuers' direct T-bills", transform=ax.transAxes, fontsize=6.4, color=ENT["SDT"], va="top", ha="right")
 panel(ax, "f", "Issuer absorption of net issuance is erratic, ~0 today", "12-month net bill issuance (bars) and issuers' absorbed share (labels)")
 
-fig.text(0.12, 0.028, f"Panel e: bills outstanding \\${bills / 1000:.2f}T; scenarios assume 80% of reserves in bills (Tether 2026Q2: 82%) and are illustrative, not forecasts.\nSources: U.S. Treasury TIC SLT Table 3 (official/non-official aggregates, country short-term holdings), MSPD, Fed H.4.1 (WSHOBL), issuer attestations, DefiLlama. Regressions: monthly changes, Feb-2023 to Jul-2026 (n = 41);\n"
+fig.text(0.12, 0.028, f"Panel e: bills outstanding \\${bills / 1000:.2f}T; scenarios assume 80% of reserves in bills, above Tether's 62% and Circle's 16% at their latest reports; illustrative, not forecasts.\nSources: U.S. Treasury TIC SLT Table 3 (official/non-official aggregates, country short-term holdings), MSPD, Fed H.4.1 (WSHOBL), issuer attestations, DefiLlama. Regressions: monthly changes, Feb-2023 to Jul-2026 (n = 41);\n"
          "controls: change in bills outstanding, EFFR, VIX; IV: BTC returns at t and t−1. Country classification (official-heavy vs financial centre) is the author's judgement, fixed before estimation.",
          fontsize=6.0, color=MUTED, va="top")
 save(fig, "Fig6_foreign_holders_scenarios")
